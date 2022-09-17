@@ -17,12 +17,30 @@
 
 ## Installation
 
-```bash
-npm install vlr.js
-yarn install vlr.js
-pnpm install vlr.js
-```
-
+<details>
+  <summary>npm</summary>
+  <br />
+  
+  ```bash
+  npm install vlr.js
+  ```
+</details>
+<details>
+  <summary>yarn</summary>
+  <br />
+  
+  ```bash
+  yarn add vlr.js
+  ```
+</details>
+<details>
+  <summary>pnpm</summary>
+  <br />
+  
+  ```bash
+  pnpm add vlr.js
+  ```
+</details>
 
 ## Example
 
