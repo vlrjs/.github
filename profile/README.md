@@ -8,10 +8,12 @@
      <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="MIT License" />
      <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/vlr.js?style=flat-square" alt="Bundle Size">
      <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/vlrjs/vlr.js?style=flat-square" alt="Latest Version">
+     <br />
+      <br />
+     <h3>Get live information from <a href="https://www.vlr.gg/">vlr.gg</a>
   </p>
 </div>
 
-Get live information from [vlr.gg](https://ww.vlr.gg/)
 
 ## Installation
 
