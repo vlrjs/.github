@@ -19,6 +19,8 @@
 
 ```bash
 npm install vlr.js
+yarn install vlr.js
+pnpm install vlr.js
 ```
 
 
