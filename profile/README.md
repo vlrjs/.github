@@ -37,5 +37,5 @@ console.log({
     team,
     player,
     rankings
-})
+});
 ```
